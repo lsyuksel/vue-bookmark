@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "fullName": "Hasan Yüksel",
+      "userName": "hasanyuksel",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "fullName": "Yüksel",
+      "userName": "deneme",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "fullName": "test",
+      "userName": "test12",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "bookmarks": [
+    {
+      "title": "Kitap Başlığı",
+      "text": "https://...",
+      "category": "React Js",
+      "description": "Açıklama alanı...",
+      "date": 2023,
+      "userName": "deneme_kullanici",
+      "id": 1
+    },
+    {
+      "title": "Hasan Yüksel",
+      "text": "https://...",
+      "category": "Next Js",
+      "description": "Açıklama alanıdır.",
+      "date": 2023,
+      "userName": "deneme_kullanici",
+      "id": 2
+    },
+    {
+      "title": "Test Başlığı",
+      "text": "google.com",
+      "category": "React Js",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet purus rhoncus, mattis nisi ut, maximus est. Quisque sollicitudin elit lectus, in suscipit odio tincidunt ut. Duis rhoncus efficitur sollicitudin. Proin laoreet tempus ipsum, sed feugiat risus. Suspendisse vel convallis odio, a rhoncus urna. Ut congue fringilla purus, eget sagittis nisl tristique ac. Phasellus ultrices urna vel hendrerit luctus. Fusce efficitur leo ac felis euismod volutpat. Nunc convallis urna massa, vel porttitor dui finibus eget. Nunc id ultrices odio, at tristique augue. Duis venenatis laoreet aliquet. Duis et ornare mauris. Nam iaculis malesuada luctus.",
+      "date": 2023,
+      "userName": "deneme_kullanici",
+      "id": 3
+    },
+    {
+      "title": "Test Başlığı #2",
+      "text": "https://www.google.com.tr/",
+      "category": "Front End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a tincidunt nunc. Donec ut metus eros. In mattis vulputate nisl, a tempor nulla viverra ac. Nam eu elit sed mauris tristique lobortis vitae eget enim. Nulla sollicitudin cursus auctor.",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 4
+    },
+    {
+      "title": "Front End Tavsiyeler",
+      "text": "https://...",
+      "category": "Front End",
+      "description": "Front End Developerlıkk",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 5
+    },
+    {
+      "title": "Test Başlığı",
+      "text": "#",
+      "category": "Vue Js",
+      "description": "Test Başlığı",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 6
+    },
+    {
+      "title": "Test Başlığı",
+      "text": "#",
+      "category": "React Js",
+      "description": "Test Başlığı",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 7
+    },
+    {
+      "title": "Test Başlığı",
+      "text": "#",
+      "category": "Next Js",
+      "description": "Test Başlığı",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 8
+    },
+    {
+      "title": "Test Başlığı",
+      "text": "#",
+      "category": "Angular Js",
+      "description": "Test Başlığı",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 9
+    },
+    {
+      "title": "Test Başlığı",
+      "text": "#",
+      "category": "Vue Js",
+      "description": "Test Başlığı",
+      "date": 2023,
+      "userName": "hasanyuksel",
+      "id": 10
+    },
+    {
+      "title": "3 Eylül Pazar",
+      "text": "#",
+      "category": "Front End",
+      "description": "Selamlarr",
+      "date": 2023,
+      "userName": "deneme",
+      "id": 11
+    },
+    {
+      "title": "5 haziran",
+      "text": "/test",
+      "category": "Vue Js",
+      "description": "test",
+      "date": 2024,
+      "userName": "hasanyuksel",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue Js",
+      "id": 1
+    },
+    {
+      "name": "React Js",
+      "id": 2
+    },
+    {
+      "name": "Next Js",
+      "id": 3
+    },
+    {
+      "name": "Angular Js",
+      "id": 4
+    },
+    {
+      "name": "Front End",
+      "id": 5
+    }
+  ]
+}
